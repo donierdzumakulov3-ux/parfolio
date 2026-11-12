@@ -1,0 +1,33 @@
+// test
+body {
+    width:120px;
+    height:140px ;
+    background-color: #f72307;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+// testsss
+h1 {
+    color: #4a90e2;
+    font-size: 36px;
+}
+// testsss
+p {
+    color:rgb(38, 255, 0);
+    font-size: 18px;
+}
+nav{
+    width: 120px;
+    height: 40px;
+    background-color:orange;
+    text-align: center;
+    border:3px solid black;
+
+}
+// testss
+.footer{
+    width: 120px;
+    height: 40px;
+    background-color:rgb(0, 255, 47);
+}
